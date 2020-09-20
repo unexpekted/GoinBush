@@ -12,6 +12,7 @@ namespace GoinBush
 {
     public class Program
     {
+        //initial commit
         public static async Task Main(string[] args)
         {
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
